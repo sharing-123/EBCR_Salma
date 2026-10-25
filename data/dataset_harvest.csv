@@ -1,0 +1,41 @@
+study,design,risk_of_bias,n_trials,outcome,comparison,scale,estimate,ci_low,ci_high,effect,ci_high_rel
+Tomala 2026,registered,some concerns,14,direction,NIV vs standard oxygen,RR,0.75,0.58,0.96,-0.2876820724517809,-0.040821994520255166
+Tomala 2026,registered,some concerns,14,direction,CPAP only,RR,0.68,0.43,1.07,-0.3856624808119846,0.06765864847381486
+Tomala 2026,registered,some concerns,14,direction,BiPAP or mixed,RR,0.79,0.58,1.08,-0.23572233352106983,0.0769610411361284
+Berbenetz 2019,registered,low,24,direction,NPPV vs SMC,RR,0.65,0.51,0.82,-0.4307829160924542,-0.19845093872383832
+Berbenetz 2019,registered,low,24,direction,CPAP,RR,0.65,0.48,0.88,-0.4307829160924542,-0.12783337150988489
+Berbenetz 2019,registered,low,24,direction,Bilevel,RR,0.72,0.53,0.98,-0.3285040669720361,-0.020202707317519466
+Mariani 2011,not registered,high,34,direction,CPAP,RR,0.64,0.44,0.93,-0.4462871026284195,-0.07257069283483537
+Mariani 2011,not registered,high,34,direction,NIPPV,RR,0.8,0.58,1.1,-0.2231435513142097,0.09531017980432493
+Weng 2010,not registered,low,31,direction,CPAP,RR,0.64,0.44,0.92,-0.4462871026284195,-0.08338160893905101
+Weng 2010,not registered,low,31,direction,Bilevel,RR,0.82,0.58,1.15,-0.19845093872383832,0.13976194237515863
+Collins 2006,not registered,some concerns,11,direction,NIV vs standard care,RR,0.61,0.41,0.91,-0.4942963218147801,-0.09431067947124129
+Collins 2006,not registered,some concerns,11,direction,CPAP,RR,0.44,0.19,1.03,-0.8209805520698302,0.02955880224154443
+Collins 2006,not registered,some concerns,11,direction,NPPV,RR,0.66,0.37,1.19,-0.4155154439616658,0.17395330712343798
+Winck 2006,not registered,some concerns,17,direction,CPAP,RD,-0.13,-0.22,-0.05,-0.13,-0.05
+Winck 2006,not registered,some concerns,17,direction,NPPV,RD,-0.07,-0.14,0.0,-0.07,0.0
+Peter 2006,not registered,some concerns,23,direction,CPAP,RR,0.59,0.38,0.9,-0.527632742082372,-0.10536051565782628
+Peter 2006,not registered,some concerns,23,direction,Bilevel,RR,0.63,0.37,1.1,-0.4620354595965587,0.09531017980432493
+Masip 2005,not registered,some concerns,15,direction,NIV vs conventional oxygen,RR,0.55,0.4,0.78,-0.5978370007556204,-0.2484613592984996
+Masip 2005,not registered,some concerns,15,direction,CPAP,RR,0.53,0.35,0.81,-0.6348782724359695,-0.21072103131565253
+Masip 2005,not registered,some concerns,15,direction,NIPSV,RR,0.6,0.34,1.05,-0.5108256237659907,0.04879016416943204
+Tomala 2026,registered,some concerns,14,significance,NIV vs standard oxygen,RR,0.75,0.58,0.96,-0.2876820724517809,-0.040821994520255166
+Tomala 2026,registered,some concerns,14,significance,CPAP only,RR,0.68,0.43,1.07,-0.3856624808119846,0.06765864847381486
+Tomala 2026,registered,some concerns,14,significance,BiPAP or mixed,RR,0.79,0.58,1.08,-0.23572233352106983,0.0769610411361284
+Berbenetz 2019,registered,low,24,significance,NPPV vs SMC,RR,0.65,0.51,0.82,-0.4307829160924542,-0.19845093872383832
+Berbenetz 2019,registered,low,24,significance,CPAP,RR,0.65,0.48,0.88,-0.4307829160924542,-0.12783337150988489
+Berbenetz 2019,registered,low,24,significance,Bilevel,RR,0.72,0.53,0.98,-0.3285040669720361,-0.020202707317519466
+Mariani 2011,not registered,high,34,significance,CPAP,RR,0.64,0.44,0.93,-0.4462871026284195,-0.07257069283483537
+Mariani 2011,not registered,high,34,significance,NIPPV,RR,0.8,0.58,1.1,-0.2231435513142097,0.09531017980432493
+Weng 2010,not registered,low,31,significance,CPAP,RR,0.64,0.44,0.92,-0.4462871026284195,-0.08338160893905101
+Weng 2010,not registered,low,31,significance,Bilevel,RR,0.82,0.58,1.15,-0.19845093872383832,0.13976194237515863
+Collins 2006,not registered,some concerns,11,significance,NIV vs standard care,RR,0.61,0.41,0.91,-0.4942963218147801,-0.09431067947124129
+Collins 2006,not registered,some concerns,11,significance,CPAP,RR,0.44,0.19,1.03,-0.8209805520698302,0.02955880224154443
+Collins 2006,not registered,some concerns,11,significance,NPPV,RR,0.66,0.37,1.19,-0.4155154439616658,0.17395330712343798
+Winck 2006,not registered,some concerns,17,significance,CPAP,RD,-0.13,-0.22,-0.05,-0.13,-0.05
+Winck 2006,not registered,some concerns,17,significance,NPPV,RD,-0.07,-0.14,0.0,-0.07,0.0
+Peter 2006,not registered,some concerns,23,significance,CPAP,RR,0.59,0.38,0.9,-0.527632742082372,-0.10536051565782628
+Peter 2006,not registered,some concerns,23,significance,Bilevel,RR,0.63,0.37,1.1,-0.4620354595965587,0.09531017980432493
+Masip 2005,not registered,some concerns,15,significance,NIV vs conventional oxygen,RR,0.55,0.4,0.78,-0.5978370007556204,-0.2484613592984996
+Masip 2005,not registered,some concerns,15,significance,CPAP,RR,0.53,0.35,0.81,-0.6348782724359695,-0.21072103131565253
+Masip 2005,not registered,some concerns,15,significance,NIPSV,RR,0.6,0.34,1.05,-0.5108256237659907,0.04879016416943204
